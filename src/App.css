@@ -1,0 +1,26 @@
+
+body{
+  background-color: black;
+}
+.body{
+  text-align: center;
+  color: white;
+  font-size: 50px;
+}
+button{
+  height: 50px;
+  width: 100px;
+  margin: 50px;
+  font-size: 30px;
+  background-color: yellow;
+  border-color: rgb(216, 216, 156);
+}
+.count{
+  color: red;
+  font-size: 80px;
+}
+h1{
+  color: aqua;
+}
+
+
